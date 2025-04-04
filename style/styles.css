@@ -123,5 +123,28 @@ margin-bottom: 14px;
     
 }
 
+.footer{
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+
+
+}
+.foodie {
+    width: 50%;
+}
+.ico{
+    width: 50%;
+}
+.social{
+    justify-content:space-between;
+    gap: 15px;
+}
+.foodie img{
+    width: 960px;
+    height: 671px;
+}
+
+
 
 
